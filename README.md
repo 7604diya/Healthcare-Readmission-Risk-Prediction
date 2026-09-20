@@ -368,21 +368,6 @@ Potential extensions include:
 
 ---
 
-## 📁 Repository
-
-**GitHub:**
-https://github.com/7604diya/Healthcare-Readmission-Risk-Prediction
-
----
-
-## 👩‍💻 Author
-
-**Sarodiya Pal**
-MSc Mathematics & Scientific Computing
-National Institute of Technology, Warangal
-
----
-
 ### ⭐ Disclaimer
 
 This project is developed for **educational, portfolio, and machine-learning demonstration purposes only**. The dataset is synthetic, and the model should not be used for clinical decision-making.
